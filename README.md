@@ -3,7 +3,7 @@
 A modern React application that suggests recipes based on your mood, available ingredients, and dietary preferences. Built with React, TypeScript, and Tailwind CSS.
 
 ## 🌟 Demo
-Check out the live demo [here](mood-food-bicode.vercel.app).
+Check out the live demo [here](mood-food-bicode.vercel.app](https://mood-food-bicode.vercel.app/)).
 
 ## ✨ Features
 
